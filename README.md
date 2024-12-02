@@ -25,13 +25,12 @@ The dataset is publicly available on [GitHub](https://raw.githubusercontent.com/
 ## Installation
 
 1. Clone the repository:
-```bash
+```
 git clone https://github.com/yourusername/language-detection-analysis.git
 cd language-detection-analysis
 ```
 2. Install the required libraries:
 ```
-bash
 pip install -r requirements.txt
 ```
 3. Download the dataset: The dataset will be automatically fetched via the provided link in the code.
@@ -43,7 +42,6 @@ pip install -r requirements.txt
 1. Open the language_detection.py file in your IDE or terminal.
 2. Run the script:
 ```
-bash
 python language_detection.py
 ```
 3. Input custom text when prompted, and the model will predict the language.
@@ -89,7 +87,7 @@ python language_detection.py
 ---
 
 ## Repository Structure
-```bash
+```
 language-detection-analysis/
 
 │
