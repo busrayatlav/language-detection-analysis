@@ -86,23 +86,6 @@ python language_detection.py
 
 ---
 
-## Repository Structure
-```
-language-detection-analysis/
-
-│
-
-├── language_detection.py  # Main script for the project
-
-├── requirements.txt       # List of required Python libraries
-
-├── README.md              # Project documentation
-
-└── LICENSE                # License file
-
-```
----
-
 ## Future Improvements
 
 - Add more languages and larger datasets to improve accuracy.
@@ -129,3 +112,20 @@ This project is licensed under the [MIT License](LICENSE).
 - **Inspiration**: Inspired by an article by [Aman Kharwal](https://thecleverprogrammer.com/).
 - **Libraries and Tools**: Special thanks to Scikit-learn and Python for making this project possible.
 
+---
+
+## Repository Structure
+```
+language-detection-analysis/
+
+│
+
+├── language_detection.py  # Main script for the project
+
+├── requirements.txt       # List of required Python libraries
+
+├── README.md              # Project documentation
+
+└── LICENSE                # License file
+
+```
